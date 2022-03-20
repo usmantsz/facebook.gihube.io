@@ -21,8 +21,8 @@ const Data=()=>{
         },
         {
           id: 3,
-          userImg: "/images/fawad3.jpg",
-          name: "Rahul",
+          userImg: "https://scontent.flhe13-1.fna.fbcdn.net/v/t39.30808-1/273722836_995245271390141_2593219179627583441_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeFOrlp-MeZpz5j0x73ZQfqDo4mL9pZ77XWjiYv2lnvtdS38jGUPumtOK6643xu2_J2Y6fYCcmo1tVOIZlRQK2LB&_nc_ohc=hA1CraIWLRUAX-yY7pC&_nc_oc=AQm0_-nKAVoJpSECaNkfBtBJZ2UAN10iIC6tLjdMCBLP7vV2QVLZ-XD63u0ME08Ef6E&_nc_ht=scontent.flhe13-1.fna&oh=00_AT_VgfNiDiebufW9KWkvnJ0KyC1hA8uVU00o5Zn58MyaeA&oe=623C684B",
+          name: "Shoaib",
           time: "2h",
           status:1,
           text:
@@ -58,12 +58,12 @@ const Data=()=>{
         },
         {
           id: 8,
-          userImg: "/images/fawad4.jpg",
-          name: "Usman Ali",
+          userImg: "https://scontent.flhe13-1.fna.fbcdn.net/v/t1.6435-1/135623227_10225628113676389_7830394892341142913_n.jpg?stp=cp0_dst-jpg_p40x40&_nc_cat=104&ccb=1-5&_nc_sid=7206a8&_nc_eui2=AeEfh63BN3p_0306sfMAcN0STVq-CIpzzehNWr4IinPN6LY03hgWPuCa7Fn6Ewy1I9Vg8ZMWdUnQnTbQkHxLHGxI&_nc_ohc=nKMvu8D6a7UAX9DABv9&_nc_ht=scontent.flhe13-1.fna&oh=00_AT_09jOf12hPTh5jCpj7lBALz-woUdCwJNAnDx2ce-pG9w&oe=625ABE06",
+          name: "Mohsin",
           time: "1h",
           text:
             "اک  لا حاصل  تمنا  نے  گرا  کے  رکھ  دیا  معیار  میرا  ",
-          postImg: "/images/imrankhanpost.jpg",
+          postImg: "https://scontent.flhe13-1.fna.fbcdn.net/v/t39.30808-6/275790643_10228607378476147_925569386572283725_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeG52rvwXUP9WdlgV9HXQFwhB-YzRZKnDIoH5jNFkqcMinAQ_bjEbKJCMC2sFFMSbjvGasaju3CGATID7dE3DQBY&_nc_ohc=fzbRsdyhrygAX-uEazC&_nc_ht=scontent.flhe13-1.fna&oh=00_AT8c1Ksm7tq3b7idtbswlhpZjr7so1NuAvWDzKMZRukC5g&oe=623B1A64",
         },
         {
           id: 9,
