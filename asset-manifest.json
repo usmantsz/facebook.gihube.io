@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/facebook.gihube.io/static/css/main.2fbb6b54.chunk.css",
+    "main.js": "/facebook.gihube.io/static/js/main.a61c8e60.chunk.js",
+    "main.js.map": "/facebook.gihube.io/static/js/main.a61c8e60.chunk.js.map",
+    "runtime-main.js": "/facebook.gihube.io/static/js/runtime-main.40e45e34.js",
+    "runtime-main.js.map": "/facebook.gihube.io/static/js/runtime-main.40e45e34.js.map",
+    "static/js/2.f805aab5.chunk.js": "/facebook.gihube.io/static/js/2.f805aab5.chunk.js",
+    "static/js/2.f805aab5.chunk.js.map": "/facebook.gihube.io/static/js/2.f805aab5.chunk.js.map",
+    "index.html": "/facebook.gihube.io/index.html",
+    "precache-manifest.8b9c7f8e7306fd99eab43198e06a3f0a.js": "/facebook.gihube.io/precache-manifest.8b9c7f8e7306fd99eab43198e06a3f0a.js",
+    "service-worker.js": "/facebook.gihube.io/service-worker.js",
+    "static/css/main.2fbb6b54.chunk.css.map": "/facebook.gihube.io/static/css/main.2fbb6b54.chunk.css.map",
+    "static/js/2.f805aab5.chunk.js.LICENSE.txt": "/facebook.gihube.io/static/js/2.f805aab5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40e45e34.js",
+    "static/js/2.f805aab5.chunk.js",
+    "static/css/main.2fbb6b54.chunk.css",
+    "static/js/main.a61c8e60.chunk.js"
+  ]
+}
