@@ -9,10 +9,8 @@ const ShowPost = (props) => {
   const [state] = React.useState(Data);
   return (
     <div className="show">
-      {state.map((post) => {
-       if(post.status===props.status || props.all===0)
-       {
-         return(
+      {state.map((post) => (
+      
           <div key={post.id} className="empty">
           <div className="show__header">
             <div className="show__header-img">
@@ -57,9 +55,8 @@ const ShowPost = (props) => {
                 </div>
               </div>
         </div>
-         );
-       }
-      })
+        
+  ))
       }
       
     </div>
