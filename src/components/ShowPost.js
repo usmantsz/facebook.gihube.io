@@ -6,11 +6,11 @@ import Data from "./Data";
 const ShowPost = (props) => {
 
   
-  const [state, setState] = React.useState(Data);
+  const [state] = React.useState(Data);
   return (
     <div className="show">
       {state.map((post) => {
-       if(post.status==props.status || props.all==0)
+       if(post.status===props.status || props.all===0)
        {
          return(
           <div key={post.id} className="empty">

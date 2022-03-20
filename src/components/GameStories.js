@@ -1,7 +1,7 @@
 import React from "react";
 import GameData from "./GameData";
 const GameStories = () => {
-  const [state, setState] = React.useState(GameData);
+  const [state] = React.useState(GameData);
   return (
     <div className="stories">
       {state.map((story,i) => {

@@ -1,7 +1,7 @@
 import React from "react";
 import ShopData from "./ShopData";
 const Products = (props) => {
-  const [state, setState] = React.useState(ShopData);
+  const [state] = React.useState(ShopData);
   return (
     <div className="product">
       {state.map((story,i) => (

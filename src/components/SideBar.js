@@ -1,13 +1,5 @@
-import React, { useState } from "react";
+import React from "react";
 import {FiChevronDown} from "react-icons/fi";
-
-// import {IoTimer} from "react-icons/io";
-const iconStyle={
-  fontSize: "26px",
-  color: "#0099ff",
- 
-      // background:"linear-gradient(to right, #00f260, #0575e6)"
-};
 const SideBar = () => {
  
   return (

@@ -5,7 +5,7 @@ import {
 } from "react-icons/fa";
 import Data from "./Data";
 const Stories = () => {
-  const [state, setState] = React.useState(Data);
+  const [state] = React.useState(Data);
   return (
     <div className="stories">
       <div className="stories__col">

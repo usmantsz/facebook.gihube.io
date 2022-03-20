@@ -2,7 +2,7 @@ import React from "react";
 import Data from "./Data";
 
 const ChatBar = (props) => {
-  const [state, setState] = React.useState(Data);
+  const [state] = React.useState(Data);
   const openChat = (user) => {
     props.openChat(user);
   };
